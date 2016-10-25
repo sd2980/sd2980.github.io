@@ -1,0 +1,38 @@
+<html> 
+
+	<head>
+		<style>
+			.header-link-wrapper{
+				background: green;
+				width: 800px;
+			}
+			.link-item{
+				background:gray;
+				width: 100px;
+				padding: 10px;
+				border: 1px solid black;
+				display: inline-block;
+			}
+		</style>
+	</head>
+
+	<body>
+
+		<div class="header-link-wrapper">
+			<div class="link-item">
+				<h3>box</h3>
+			</div>
+			<div class="link-item">
+				<h3>box</h3>
+			</div>
+			<div class="link-item">
+				<h3>box</h3>
+			</div>
+			<div class="link-item">
+				<h3>box</h3>
+			</div>
+		</div>
+
+	</body>
+
+</html>
